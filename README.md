@@ -36,3 +36,6 @@
 
 # License
 MIT
+
+# Author
+    @Stilly
