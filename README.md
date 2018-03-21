@@ -36,8 +36,3 @@
 
 # License
 MIT
-
-
-
-
-id 
