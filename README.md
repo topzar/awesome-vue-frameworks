@@ -19,6 +19,7 @@
     * <a href="https://github.com/myliang/fish-ui" target="_blank">fish-ui</a> A Vue.js 2.0 UI Toolkit for Web
     * <a href="https://github.com/sunshineJi/amaze-vue" target="_blank">amaze-vue</a> 基于amazeui样式封装的vue组件库
     * <a href="https://github.com/myronliu347/vue-carbon" target="_blank">vue-carbon</a> 基于vue开发的material design ui库
+    * <a href="https://vuecomponent.github.io/ant-design/docs/vue/introduce/" target="_blank">Ant Design of Vue</a> An enterprise-class UI components based on Ant Design and Vue.
 
 - Vue Mobile UI Frameworks
     * <a href="https://github.com/ElemeFE/mint-ui/" target="_blank">Mint UI</a> Mobile UI elements for Vue.js
