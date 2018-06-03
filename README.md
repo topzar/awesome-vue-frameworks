@@ -30,6 +30,7 @@
     * <a href="https://github.com/zdliuccit/ml-ui" target="_blank">ml-ui</a> 基于 Vue 2.0 的 Mobile 组件库 ml-ui  
     * <a href="https://github.com/wdfe/wdui" target="_blank">WDUI</a> Mobile UI Components Library based on Vue 2.0 at Weidian 
     * <a href="https://github.com/Brickies/vui" target="_blank">vui</a> A personal Vue UI component library for Mobile  
+    * <a href="https://github.com/uileader/touchui" target="_blank">touchui</a> 高质量移动端UI框架 
 
 - Vue.js Frameworks
     * <a href="https://github.com/nuxt/nuxt.js" target="_blank">NUXT</a> Versatile Vue.js Framework 
